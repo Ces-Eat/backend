@@ -1,0 +1,8 @@
+{
+    "context": {
+        "appName": "ms-ratings-DEV"
+    },
+    "logger": {
+        "logLevel": "debug"
+    }
+}

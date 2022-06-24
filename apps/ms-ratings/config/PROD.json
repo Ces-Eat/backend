@@ -1,0 +1,8 @@
+{
+    "context": {
+        "appName": "ms-ratings-PROD"
+    },
+    "logger": {
+        "logLevel": "info"
+    }
+}
